@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/calc/init__.py
+src/calc/main__.py
+src/calc/ops.py
+src/calc_ci_lab.egg-info/PKG-INFO
+src/calc_ci_lab.egg-info/SOURCES.txt
+src/calc_ci_lab.egg-info/dependency_links.txt
+src/calc_ci_lab.egg-info/top_level.txt
+tests/test_ops.py

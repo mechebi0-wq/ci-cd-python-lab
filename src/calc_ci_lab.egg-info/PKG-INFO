@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: calc-ci-lab
+Version: 0.1.0
+Summary: Tiny calc package for CI/CD lab
+Author: Your Name
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# ci-cd-python-lab
+
+A minimal Python package to demonstrate CI/CD with GitHub Actions.
+
+## Local usage
+```bash
+pip install -r requirements-dev.txt
+python -m calc add 2 3
+pytest
